@@ -1,0 +1,6 @@
+Download node.js and it comes with different packages like npm, npx
+when you download node.js open theis folder "MY EXAM APP"
+from your code editor and then open your terminal and type node -v to check
+the version of your node.
+The you navigate to my-app with "cd my-app" and click enter when you have enter the directory 
+you then type npm start to start the app. 
